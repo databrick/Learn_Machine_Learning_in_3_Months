@@ -1,14 +1,17 @@
 # Learn_Machine_Learning_in_3_Months
 
-This is the Curriculum for "Learn Machine Learning in 3 Months" [this](https://youtu.be/Cr6VqTRO1v0) video by Siraj Raval on Youtube 
+This is the Curriculum for "Learn Machine Learning in 3 Months" [this](https://youtu.be/Cr6VqTRO1v0) video by Siraj Raval on Youtube. And I adapted it to fit the Chinese context.
 
 # Month 1
 
 ## Week 1 Linear Algebra
 https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+in China: https://www.bilibili.com/video/av6731067
 https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
+in China: https://www.bilibili.com/video/av15463995
 ## Week 2 Calculus
 https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+in China: https://www.bilibili.com/video/av6731067
 ## Week 3 Probability
 https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2
 ## Week 4 Algorithms
